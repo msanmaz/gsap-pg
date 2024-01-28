@@ -1,4 +1,4 @@
-# Flying Bear Animation Project
+# Flying Bear Micro Animation Project
 
 ![Flying Bear Power](https://github.com/msanmaz/gsap-pg/blob/main/public/bearpower.gif)
 
