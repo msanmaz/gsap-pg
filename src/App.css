@@ -70,6 +70,7 @@ a svg {
 input::placeholder {
 	font-weight: 50;
 	line-height: 48px;
+  padding-left: 40px;
 	color: hsl(0 0% 60%);
 }
 
