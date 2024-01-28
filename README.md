@@ -3,7 +3,7 @@
 ![Flying Bear Power](https://github.com/msanmaz/gsap-pg/blob/main/public/bearpower.gif)
 
 ## Overview
-Welcome to the Flying Bear Animation Project, an interactive and visually engaging web application featuring a sneakily watching bear that gains the power of flight, thanks to the magic of GSAP animations.
+Welcome to the Flying Bear Animation Project, an interactive and visually engaging web application featuring a sneakily watching bear that gains the power of flight in the navBar, thanks to the magic of GSAP animations.
 
 ## Technology Stack
 This project is built using a robust set of technologies ensuring both efficiency and high performance:
